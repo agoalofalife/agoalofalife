@@ -28,11 +28,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Laravel Orchid Admin Panel. Урок № 18. Участвуем в жизни проекта при помощи Pull Request](https://www.youtube.com/watch?v=I2xrO5ctR7I)
 - [Laravel Orchid Admin Panel. Урок № 17. Обратная связь или Issue](https://www.youtube.com/watch?v=7XEQVkRg1iM)
 - [Laravel Orchid Admin Panel. Урок № 16. Уведомления(Notifications)](https://www.youtube.com/watch?v=2n6YJXXtC1k)
 - [Laravel Orchid Admin Panel. Урок № 15. Продвинутая фильтрация(Advanced Filters)](https://www.youtube.com/watch?v=nGQ7fISWw6U)
 - [Laravel Orchid Admin Panel. Урок № 14. Вложение(Attachment)](https://www.youtube.com/watch?v=iNthMN8Lap8)
-- [Laravel Orchid Admin Panel. Урок № 13.Кастомный компонент](https://www.youtube.com/watch?v=j44xvN6wsPo)
 <!-- YOUTUBE:END -->
 
 <!--
