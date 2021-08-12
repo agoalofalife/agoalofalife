@@ -28,11 +28,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Laravel Livewire Урок №3 Свойства компонента(Properties Component)](https://www.youtube.com/watch?v=Xjjowtju6Bc)
 - [Laravel Livewire Урок №2 Создание компонента(Create Component)](https://www.youtube.com/watch?v=xnsrHaO0SAg)
 - [Laravel Livewire Урок №1 Введение и Установка(Intro and Installation)](https://www.youtube.com/watch?v=_6H6S4mlIX8)
 - [Laravel Orchid Admin Panel. Урок № 18. Участвуем в жизни проекта при помощи Pull Request](https://www.youtube.com/watch?v=I2xrO5ctR7I)
 - [Laravel Orchid Admin Panel. Урок № 17. Обратная связь или Issue](https://www.youtube.com/watch?v=7XEQVkRg1iM)
-- [Laravel Orchid Admin Panel. Урок № 16. Уведомления(Notifications)](https://www.youtube.com/watch?v=2n6YJXXtC1k)
 <!-- YOUTUBE:END -->
 
 <!--
