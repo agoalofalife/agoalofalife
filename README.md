@@ -28,11 +28,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Laravel Livewire Урок №6 Валидацая (Validation)](https://www.youtube.com/watch?v=3U0MhnorVcU)
 - [Laravel Livewire Урок №5 Жизненный цикл(Lifecycle)](https://www.youtube.com/watch?v=sMraiVNRd5w)
 - [Laravel Livewire Урок №4 Действия компонента(Actions Component)](https://www.youtube.com/watch?v=DOFAGsNiXqU)
 - [Laravel Livewire Урок №3 Свойства компонента(Properties Component)](https://www.youtube.com/watch?v=Xjjowtju6Bc)
 - [Laravel Livewire Урок №2 Создание компонента(Create Component)](https://www.youtube.com/watch?v=xnsrHaO0SAg)
-- [Laravel Livewire Урок №1 Введение и Установка(Intro and Installation)](https://www.youtube.com/watch?v=_6H6S4mlIX8)
 <!-- YOUTUBE:END -->
 
 <!--
