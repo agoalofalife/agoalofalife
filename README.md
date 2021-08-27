@@ -28,7 +28,7 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
-- [Laravel Livewire Урок №8 Тестирование (Testing)](https://www.youtube.com/watch?v=OLfWxL10Rr8)
+- [Laravel Livewire Урок №9 Тестирование (Testing)](https://www.youtube.com/watch?v=OLfWxL10Rr8)
 - [Laravel Livewire Урок №8 События (Events)](https://www.youtube.com/watch?v=tfdKVS-hOGE)
 - [Laravel Livewire Урок №7 Тонкости UI (UI NICETIES)](https://www.youtube.com/watch?v=penO1oqr9PM)
 - [Laravel Livewire Урок №6 Валидация (Validation)](https://www.youtube.com/watch?v=3U0MhnorVcU)
