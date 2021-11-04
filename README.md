@@ -4,6 +4,12 @@
 - 🥅 2021 Goals: Be more activity in social networks
 - ⚡ Fun facts: I love to sport, renovation and work!
 
+<br>
+
+### Sometimes I fun with codewars - you can follow with me
+
+<img src="https://www.codewars.com/users/agoalofalife/badges/small"/>
+
 ### Connect with me:
 
 [<img align="left" alt="agoalofalife | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
