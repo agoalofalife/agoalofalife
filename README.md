@@ -13,9 +13,11 @@
 ### Connect with me:
 
 [<img align="left" alt="agoalofalife | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="agoalofalife | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+
 <!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 <!-- [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] -->
-[<img align="left" alt="agoalofalife | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!-- [<img align="left" alt="agoalofalife | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
 
 <br />
 
@@ -62,5 +64,5 @@ Here are some ideas to get you started:
 [twitter]: https://twitter.com/codeSTACKr -->
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [youtube]: https://www.youtube.com/channel/UCuJGZRp-fHhfkptUYVdplAA
-[instagram]: https://instagram.com/agoalofalife
+[medium]: https://medium.com/@agoalofalife
 <!-- [linkedin]: https://linkedin.com/in/codeSTACKr -->
