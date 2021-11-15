@@ -36,11 +36,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [PHP Итераторы](https://www.youtube.com/watch?v=cPpEHTWDFv4)
 - [Laravel Livewire Урок №9 Тестирование &lpar;Testing&rpar;](https://www.youtube.com/watch?v=OLfWxL10Rr8)
 - [Laravel Livewire Урок №8 События &lpar;Events&rpar;](https://www.youtube.com/watch?v=tfdKVS-hOGE)
 - [Laravel Livewire Урок №7 Тонкости UI &lpar;UI NICETIES&rpar;](https://www.youtube.com/watch?v=penO1oqr9PM)
 - [Laravel Livewire Урок №6 Валидация &lpar;Validation&rpar;](https://www.youtube.com/watch?v=3U0MhnorVcU)
-- [Laravel Livewire Урок №5 Жизненный цикл&lpar;Lifecycle&rpar;](https://www.youtube.com/watch?v=sMraiVNRd5w)
 <!-- YOUTUBE:END -->
 
 <!--
