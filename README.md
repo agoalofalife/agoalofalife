@@ -1,7 +1,7 @@
 ### Hi there, I'm Ilya - aka agoalofalife 👋
 ### I am software developer with huge outlook
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Be more activity in social networks
+- 🥅 2022 Goals: Be more activity in social networks
 - ⚡ Fun facts: I love to sport, renovation and work!
 
 <br>
