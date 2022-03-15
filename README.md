@@ -3,7 +3,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Be more activity in social networks
 - ⚡ Fun facts: I love to sport, renovation and work!
-
+- 💬 Also I can give consultation to you and your a project
 <br>
 
 ### Sometimes I fun with codewars - you can follow with me
