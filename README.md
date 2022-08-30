@@ -36,11 +36,11 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Laravel Queue Job Dublicate](https://youtu.be/KLcp4tjiv68)
+- [Laravel Queue Timeout](https://youtu.be/6VR1XNlB9-s)
 - [PHP Итераторы](https://www.youtube.com/watch?v=cPpEHTWDFv4)
 - [Laravel Livewire Урок №9 Тестирование &lpar;Testing&rpar;](https://www.youtube.com/watch?v=OLfWxL10Rr8)
 - [Laravel Livewire Урок №8 События &lpar;Events&rpar;](https://www.youtube.com/watch?v=tfdKVS-hOGE)
-- [Laravel Livewire Урок №7 Тонкости UI &lpar;UI NICETIES&rpar;](https://www.youtube.com/watch?v=penO1oqr9PM)
-- [Laravel Livewire Урок №6 Валидация &lpar;Validation&rpar;](https://www.youtube.com/watch?v=3U0MhnorVcU)
 <!-- YOUTUBE:END -->
 
 <!--
