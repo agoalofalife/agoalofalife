@@ -36,11 +36,12 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [
+Interview with the creator of Laravel Orchid](https://www.youtube.com/watch?v=tfdKVS-hOGE)
 - [Laravel Queue Job Dublicate](https://youtu.be/KLcp4tjiv68)
 - [Laravel Queue Timeout](https://youtu.be/6VR1XNlB9-s)
 - [PHP Итераторы](https://www.youtube.com/watch?v=cPpEHTWDFv4)
 - [Laravel Livewire Урок №9 Тестирование &lpar;Testing&rpar;](https://www.youtube.com/watch?v=OLfWxL10Rr8)
-- [Laravel Livewire Урок №8 События &lpar;Events&rpar;](https://www.youtube.com/watch?v=tfdKVS-hOGE)
 <!-- YOUTUBE:END -->
 
 <!--
