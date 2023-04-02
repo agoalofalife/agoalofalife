@@ -36,6 +36,8 @@
 
 ### 📺 Latest Youtube Videos
 <!-- YOUTUBE:START -->
+- [Подкаст "Так не сойдет" Как изучать Laravel в 2023 году 🥳](https://youtu.be/jQITs6C-GjU)
+- [Laravel Queue "Ошибка которая может стоить 1 000 000 $"](https://youtu.be/KLt3978lB0A)
 - [Подкаст "Так не сойдет" Удаленная работа или возвращение в офис 🤔](https://youtu.be/OmHiT52mPQg)
 - [Interview with the creator of Laravel Orchid](https://www.youtube.com/watch?v=tfdKVS-hOGE)
 - [Laravel Queue Job Dublicate](https://youtu.be/KLcp4tjiv68)
