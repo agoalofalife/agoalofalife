@@ -1,9 +1,10 @@
 ### Hi there, I'm Ilya - aka agoalofalife 👋
-### I am software developer with huge outlook
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Be more activity in social networks
-- ⚡ Fun facts: I love to sport, renovation and work!
-- 💬 Also I can give consultation to you and your a project
+I'm mainly a backend developer who really enjoys coding every day ❤️
+My list of languages is PHP, golang, and JS. 
+
+Unfortunately, I don't have enough time for Open Source, but every now and again I spent a little time on that. 
+You can find me on [Telegram](https://t.me/agoalofalife) or write to email. 
+
 <br>
 
 ### Sometimes I fun with codewars - you can follow with me
