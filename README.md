@@ -35,16 +35,7 @@ You can find me on [Telegram](https://t.me/agoalofalife) or write to email.
 <br />
 <br />
 
-### 📺 Latest Youtube Videos
-<!-- YOUTUBE:START -->
-- [Подкаст "Так не сойдет" Как изучать Laravel в 2023 году 🥳](https://youtu.be/jQITs6C-GjU)
-- [Laravel Queue "Ошибка которая может стоить 1 000 000 $"](https://youtu.be/KLt3978lB0A)
-- [Подкаст "Так не сойдет" Удаленная работа или возвращение в офис 🤔](https://youtu.be/OmHiT52mPQg)
-- [Interview with the creator of Laravel Orchid](https://www.youtube.com/watch?v=tfdKVS-hOGE)
-- [Laravel Queue Job Dublicate](https://youtu.be/KLcp4tjiv68)
-- [Laravel Queue Timeout](https://youtu.be/6VR1XNlB9-s)
-- [PHP Итераторы](https://www.youtube.com/watch?v=cPpEHTWDFv4)
-<!-- YOUTUBE:END -->
+###  📺 Also, I have my personal [youtube](https://www.youtube.com/@agoalofalife) channel when I practice my pedagogical skill and share my experience.
 
 <!--
 **agoalofalife/agoalofalife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
