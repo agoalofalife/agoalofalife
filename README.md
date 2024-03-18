@@ -7,9 +7,11 @@ You can find me on [Telegram](https://t.me/agoalofalife) or write to email.
 
 <br>
 
-### Sometimes I fun with codewars - you can follow with me
+### Sometimes I fun with codewars and leetcode - you can follow with me
 
 <img src="https://www.codewars.com/users/agoalofalife/badges/small"/>
+
+[![LeetCode user agoalofalife](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fagoalofalife&logo=leetcode&logoColor=yellow)](https://leetcode.com/agoalofalife/)
 
 ### Connect with me:
 
