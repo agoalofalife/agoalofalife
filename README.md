@@ -7,7 +7,7 @@ You can find me on [Telegram](https://t.me/agoalofalife) or write to email.
 
 <br>
 
-### Sometimes I fun with codewars and leetcode - you can follow with me
+### Sometimes I fun with codewars and leetcode -- join me!
 
 <img src="https://www.codewars.com/users/agoalofalife/badges/small"/>
 
